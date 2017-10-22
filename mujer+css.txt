@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Consultor De Informacion Genaral De Usuarios</title>
+</head>
+<body bgcolor="FF1493" face="myriad pro">
+
+<p>First name: <input type="text" name="FirstName" value="Diana"><br>
+Last name: <input type="text" name="LastName" value="Carreño"><br>
+<input type="submit" value="Submit"></p>
+
+<div>
+<h1><big><font color="white">Diana Carreño</big></font></h1>
+<font color="white" size="4">
+<img src="diana.git">
+<ul type=square>
+<li>Nombres: Diana Carolina</li>
+<li>Apellidos:Carreño Luna</li>
+<li>Edad:25</li>
+<li>Ciudad:Bogota D.C</li>
+<li>Celular:3215698523</li>
+<li>E-mail: danicaro@gmail.com</li>
+<li>Direccion:Carrera 33 # 76-15</li>
+</ul>
+</div>
+
+<div>
+<br>
+<p>DESCRIPCIÓN:</p>
+<br>
+</div>
+<div>
+<p>Diana Carreño nacio en bogota, Colombia. A sus 17 años empezo su carrera como medica 
+en la universidad La Nueva Granada de Bogota y termino sus posgrados en Canada.</P>
+</font>
+</div>
+</body>
+</html>
